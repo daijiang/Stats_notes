@@ -12,3 +12,4 @@ bin-release/
 
 *~
 *#
+.ipynb_checkpoints/
